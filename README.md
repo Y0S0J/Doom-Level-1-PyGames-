@@ -1,4 +1,5 @@
-# Doom-Level-1-PyGames-
-1st Doom Game(Wolfenstein)-3D made in python 
+# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
 
-Control: 'WASD' and mouse
+Control: 'WASD' + mouse
+
+![doom](/sreenshots/0.jpg)
